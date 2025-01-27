@@ -1,3 +1,14 @@
+.mostrarBorrar {
+    color: #6c757d;
+    transition: color 0.3s ease;
+}
+
+.borrar:hover .mostrarBorrar {
+    display: inline;
+    color: red;
+}
+
+
 
 /* 
 
